@@ -1,0 +1,22 @@
+{
+  "name": "design-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martijnvanderee/design-token.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martijnvanderee/design-token/issues"
+  },
+  "homepage": "https://github.com/martijnvanderee/design-token#readme",
+  "dependencies": {
+    "style-dictionary": "^3.8.0"
+  }
+}
